@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 # Práctica de Trabajo Colaborativo con Git y GitHub
 
 ## Descripción del Proyecto - (RAMA DEV)
 
 Este proyecto (creado por dev) consiste en el desarrollo de una página web utilizando HTML y CSS con el propósito de aplicar herramientas y metodologías de trabajo colaborativo mediante Git y GitHub.
+=======
+# Práctica de Trabajo Colaborativo con Git y GitHub por Daniel Antonio Nolberto Ortega
+
+## Descripción del Proyecto - RAMA DISENIO
+
+Este proyecto (creado por diseñador) consiste en el desarrollo de una página web con temática de la película de Dune utilizando HTML y CSS con el propósito de aplicar herramientas y metodologías de trabajo colaborativo mediante Git y GitHub.
+>>>>>>> disenio
 
 Durante el desarrollo se implementaron ramas de trabajo, control de versiones, integración de cambios mediante Pull Requests y resolución de conflictos, permitiendo que varios integrantes trabajaran simultáneamente sobre el mismo proyecto.
 
@@ -26,11 +34,14 @@ Aplicar los conceptos de control de versiones y trabajo colaborativo utilizando 
 | Raul       | Diseñador    | Diseñar la interfaz visual del sitio web y realizar modificaciones de estilo.                    |
 | Sofia      | Documentador | Elaborar la documentación del proyecto y mantener actualizado el README.                         |
 
+<<<<<<< HEAD
 - Daniel - Líder
 - Gerardo - Integrador
 - Raul - Diseñador
 - Sofia - Documentador
 
+=======
+>>>>>>> disenio
 ## Estructura de Ramas
 
 El proyecto utiliza la siguiente estructura de ramas:
@@ -87,3 +98,7 @@ Enlace al repositorio:
 ## Conclusiones
 
 La práctica permitió comprender la importancia del control de versiones en proyectos colaborativos, así como el uso de ramas, Pull Requests y resolución de conflictos para mantener un desarrollo organizado y eficiente.
+<<<<<<< HEAD
+=======
+# Tarea2Dwi
+>>>>>>> disenio
