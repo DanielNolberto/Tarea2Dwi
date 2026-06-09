@@ -1,8 +1,8 @@
 # Práctica de Trabajo Colaborativo con Git y GitHub por Daniel Antonio Nolberto Ortega
 
-## Descripción del Proyecto
+## Descripción del Proyecto - RAMA DISENIO
 
-Este proyecto consiste en el desarrollo de una página web con temática de la película de Dune utilizando HTML y CSS con el propósito de aplicar herramientas y metodologías de trabajo colaborativo mediante Git y GitHub.
+Este proyecto (creado por diseñador) consiste en el desarrollo de una página web con temática de la película de Dune utilizando HTML y CSS con el propósito de aplicar herramientas y metodologías de trabajo colaborativo mediante Git y GitHub.
 
 Durante el desarrollo se implementaron ramas de trabajo, control de versiones, integración de cambios mediante Pull Requests y resolución de conflictos, permitiendo que varios integrantes trabajaran simultáneamente sobre el mismo proyecto.
 
