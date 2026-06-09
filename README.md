@@ -6,7 +6,7 @@ Este proyecto consiste en el desarrollo de una página web inspirada en el unive
 
 Durante el desarrollo se emplearon ramas de trabajo, control de versiones, Pull Requests y resolución de conflictos para simular un entorno de desarrollo colaborativo.
 
-## Objetivo del Proyecto 
+## Objetivo del Proyecto
 
 Aplicar los conceptos de control de versiones y trabajo colaborativo mediante el uso de Git y GitHub, desarrollando una página web temática sobre Dune en la que los integrantes del equipo desempeñan distintos roles y siguen un flujo de trabajo organizado.
 
