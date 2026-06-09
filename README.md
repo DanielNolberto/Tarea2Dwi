@@ -69,9 +69,9 @@ Resolución de conflictos
 
 Repositorio Público
 
-Enlace al repositorio:
+Enlace a la página web:
 
-[Agregar enlace del repositorio aquí]
+https://tarea2dwi.onrender.com/
 
 Conclusiones
 
