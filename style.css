@@ -1,0 +1,95 @@
+/* Paleta de colores inspirada en Arrakis */
+:root {
+    --arena-clara: #E7C9A5;
+    --arena-oscura: #D4A373;
+    --especia-naranja: #CA6702;
+    --fondo-oscuro: #0A0908;
+    --texto-claro: #F4F1DE;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--fondo-oscuro);
+    color: var(--texto-claro);
+    line-height: 1.6;
+}
+
+/* Encabezado con imagen de fondo de un desierto */
+header {
+    background: linear-gradient(rgba(10, 9, 8, 0.6), rgba(10, 9, 8, 0.9)), 
+                url('https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1200&q=80') center/cover;
+    text-align: center;
+    padding: 100px 20px;
+    border-bottom: 3px solid var(--especia-naranja);
+}
+
+header h1 {
+    font-size: 4.5rem;
+    letter-spacing: 15px;
+    margin: 0;
+    color: var(--arena-clara);
+}
+
+header p {
+    font-size: 1.2rem;
+    color: var(--arena-oscura);
+    font-style: italic;
+    margin-top: 10px;
+}
+
+/* Contenido principal */
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    color: var(--especia-naranja);
+    border-bottom: 1px solid var(--arena-oscura);
+    padding-bottom: 10px;
+    margin-top: 40px;
+}
+
+.synopsis p {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+/* Estilos para la lista de datos curiosos */
+.facts ul {
+    list-style-type: none; /* Quitamos las viñetas normales */
+    padding-left: 0;
+}
+
+.facts li {
+    margin-bottom: 20px;
+    background-color: rgba(231, 201, 165, 0.05);
+    padding: 20px;
+    border-left: 4px solid var(--arena-oscura);
+    border-radius: 0 8px 8px 0;
+    transition: transform 0.2s ease;
+}
+
+.facts li:hover {
+    transform: translateX(10px);
+    border-left-color: var(--especia-naranja);
+}
+
+.facts li strong {
+    color: var(--arena-clara);
+    font-size: 1.1rem;
+}
+
+/* Pie de página */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #000;
+    color: var(--arena-oscura);
+    font-size: 0.9rem;
+    margin-top: 60px;
+    border-top: 1px solid #222;
+}
