@@ -93,3 +93,33 @@ footer {
     margin-top: 60px;
     border-top: 1px solid #222;
 }
+
+/* Estilos del botón de la especia */
+#fremen-btn {
+    background-color: transparent;
+    color: var(--especia-naranja);
+    border: 2px solid var(--especia-naranja);
+    padding: 10px 25px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+#fremen-btn:hover {
+    background-color: var(--especia-naranja);
+    color: var(--fondo-oscuro);
+    box-shadow: 0 0 15px var(--especia-naranja);
+}
+
+/* Variables de color para el Modo Fremen (Ojos Azules) */
+body.fremen-mode {
+    --arena-clara: #90E0EF;
+    --arena-oscura: #0077B6;
+    --especia-naranja: #00B4D8;
+    --fondo-oscuro: #03045E;
+    --texto-claro: #CAF0F8;
+}
